@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aisle</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="header_1_Phone_Number_Screen">Enter Your</string>
+    <string name="header_2_Phone_Number_Screen">Phone Number</string>
+    <string name="header_1_OTP_Screen">Enter The</string>
+    <string name="header_2_OTP_Screen">OTP</string>
+    <string name="header_1_Notes_Screen">Notes</string>
+    <string name="header_2_Notes_Screen">Personal Messages to you</string>
+    <string name="body_text1_Notes_Screen">Interested In You</string>
+    <string name="body_text2_Notes_Screen">Premium members can view all their likes at once</string>
+    <string name="nameAndAge">Meena, 23</string>
+    <string name="intro_msg_notes">Tap to review 50+ notes</string>
+    <string name="continue_btn">Continue</string>
+    <string name="upgrade_btn">Upgrade</string>
+</resources>
